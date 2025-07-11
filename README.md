@@ -1,1 +1,1 @@
-# JS-CodeSpace
+# JavaScript Fun
